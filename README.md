@@ -81,6 +81,7 @@ docker compose up --build
 ```
 
 > Dica: monte a pasta `data/` como volume para persistir **XMLs, logs e certificados** fora do contêiner.
+
 > Lembre-se de adicionar os schemas atualizados na pasta `data/schemas`
 ---
 
