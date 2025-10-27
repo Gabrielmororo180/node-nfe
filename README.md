@@ -32,6 +32,7 @@ Projeto em **Node.js + TypeScript** para emissão/validação de **NF-e** (e NFC
 git clone https://github.com/Gabrielmororo180/node-nfe.git
 cd node-nfe
 npm install
+npm install @projetoacbr/acbrlib-nfe-node
 # ou
 # pnpm install
 # yarn
